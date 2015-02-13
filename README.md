@@ -1,4 +1,4 @@
-# HSMS - HARCKER SPACE MANAGEMENT SYSTEM
+# HSMS - Harcker Space Management System
 
 Objetivo
 
